@@ -55,6 +55,7 @@ public class MainMenuScreen implements Screen {
             game.setScreen(new MyGdxGame(game));
             dispose();
         }
+
     }
 
     @Override

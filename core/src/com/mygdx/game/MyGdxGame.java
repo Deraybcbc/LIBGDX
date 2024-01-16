@@ -139,6 +139,7 @@ public class MyGdxGame implements Screen {
                 dropSound.play();
                 iter.remove();
             }
+
         }
     }
 

@@ -17,6 +17,7 @@ public class Drop extends Game {
     bitmapFont = new BitmapFont();
 
     setScreen(new MainMenuScreen(this));
+
     }
 
     @Override
