@@ -3,4 +3,6 @@
 
     <string name="app_name">JuegoCubo</string>
 
+    <string name="MensajeMenu">Hacer clic en la pantalla</string>
+
 </resources>

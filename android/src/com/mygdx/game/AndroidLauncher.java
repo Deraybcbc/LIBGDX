@@ -11,6 +11,12 @@ public class AndroidLauncher extends AndroidApplication {
 	protected void onCreate (Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
+<<<<<<< HEAD
 		initialize(new MyGdxGame(), config);
+=======
+
+		Drop game = new Drop();
+		initialize(game, config);
+>>>>>>> 25c08d6 (Juego Terminado(Opcional mejoras))
 	}
 }
